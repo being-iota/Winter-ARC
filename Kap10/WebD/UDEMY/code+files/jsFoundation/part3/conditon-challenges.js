@@ -25,7 +25,7 @@ if (username == anotherUsername) {
   console.log("You can pick this username");
 }
 
-//Checking if a variable is a number or not:
+//Check r or not:
 
 let score = "44";
 
